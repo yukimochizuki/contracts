@@ -11,6 +11,8 @@ import '../utility/interfaces/IContractFeatures.sol';
 import '../token/SmartTokenController.sol';
 import '../token/interfaces/ISmartToken.sol';
 import '../token/interfaces/IEtherToken.sol';
+
+
 /*
     Bancor Converter v0.10
 
